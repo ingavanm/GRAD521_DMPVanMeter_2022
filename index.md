@@ -11,6 +11,7 @@ The data is stored in three different places for this project. The only process 
 The drive, which is where the final processed data is located, is backed up every 12 hours. Along with the backup of the drive every 12 hours, my lab also has external hard drives that we upload the whole drive to every few months. These external hard drives are stored in a lockbox and are only used if data accidentally gets deleted, or we have a breach of the system. I also save the processed data onto my personal computer. So, in total I have anywhere from two to three copies of the processed data, and 4-5 copies of the raw data. When students graduate, their data is still in the drive untouched for anyone/everyone to utilize. 
 
 # Data standrds and metadata
+Since I am the only person on this side of the project, I don’t need to keep a record of the who. The where is also irrelevant as all the data is produced in lab, and there’s no different locations used. Therefore, I don’t think metadata standards are relevant for my data, as the only real metadata I produce is the when, why, and what. This data is generated from the very beginning of the project, through to the very end, and it still needs to be organized. I do this utilizing excel sheets and word docs that I organize by project folders in our drive. Inside of those project folders are subfolders, which are labeled with project information (where metadata is stored), raw data, and processed data, which is how I keep track of different versions of my data.
 
 # Storage and security
 
