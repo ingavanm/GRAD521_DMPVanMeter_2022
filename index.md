@@ -6,16 +6,16 @@ My overall research is involved with the large class of per- and polyfluoroalkyl
 # Data description
 The type of data we need comes in two phases: the first phase is data on the soil we will be using for our tests. We need to know if there is any trace pfas compounds in the soil before spiking with our pfas standards, we need the pH of the soil, the carbon and nitrogen content of the soil, the particle size(s) of the soil, the cationic exchange capacity, and lastly the dominant mineral type of the soil. This data is in the formats of:
 
--Excel files
--Word Docs
--Physical soil samples
+- Excel files
+- Word Docs
+- Physical soil samples
 
 This data was found previously by one of my lab mates and is less than 1 GB in size. The phsycial soil samples are held in-house until the research project is finished. 
 
 The second phase is data from the liquid/liquid extraction that would take place to determine if the microbiologists at Texas A&M successfully pulled any perfluoroalkyl betaines out of the soil or not. This data will be in the formats of:
 
--Raw wiff files from the Liquid Chromatogram (LC) and Mass Spectrometer (MS) (LC/MS)
--Processed data files 
+- Raw wiff files from the Liquid Chromatogram (LC) and Mass Spectrometer (MS) (LC/MS)
+- Processed data files 
 
 And this data will consist of large datasets, upwards of 50-100 samples (5-10 GB) and will be focused on the organic layer extracted from the aqueous phase. The raw wiff files are the file output produced by the LC/MS, and includes the chromatographs and spectra readouts from the LC and MS. These raw wiff files are transformed into manageable outputs utilizing our processing system.
 
@@ -25,25 +25,25 @@ The goal is that these betaine compounds will move from the aqueous layer to the
 The data that I produce from my end of the project is managed by myself and my PI. 
 My PI is responsible for:
 
--Implementation of the DMP
+- Implementation of the DMP
 
 I am responsible for:
 
--Data produced regarding the perfluoroalkyl betaines
--Physical soil samples 
--Data from LC/S
--Processed data 
+- Data produced regarding the perfluoroalkyl betaines
+- Physical soil samples 
+- Data from LC/S
+- Processed data 
 
 It is solely my responsibility to save the data onto the computer, upload it to the processing computer, and to save it onto the labs shared drive, which is where we put all our data, project information, etc. that is shared with every member of the lab to access. This process is not automatic, and in fact is fully manual done by myself only. 
 
 # Data standrds and metadata
 The metadata produced through this research will be from:
 
--Method information
--Liquid chromatogram (LC) and Mass Spectrometer (MS) system parameters 
--Definitions 
--Units and their definitions 
--Information pertaining to where the physical soil samples came from
+- Method information
+- Liquid chromatogram (LC) and Mass Spectrometer (MS) system parameters 
+- Definitions 
+- Units and their definitions 
+- Information pertaining to where the physical soil samples came from
 
 There are not any current metadata standards that would work with the metadata I produce. 
 
